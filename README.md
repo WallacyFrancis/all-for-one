@@ -91,7 +91,7 @@ SELECT * FROM northwind.orders;
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
 
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
+Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog -Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
 
 ---
 
@@ -152,10 +152,6 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-014-b-mysql-all-for-one/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
-
-## Durante o desenvolvimento
-
-⚠ Lembre-se que garantir que todas as _issues_ comentadas pelo CodeClimate estão resolvidas! ⚠
 
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes e esteja na raiz do projeto! ⚠️
 
